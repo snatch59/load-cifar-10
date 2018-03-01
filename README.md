@@ -10,3 +10,5 @@ load_cifar_10.py script.
 The code contains example usage, and runs under Python 3 only. Note that
 the load_cifar_10_data() function has the option to load the images as
 negatives using negatives=True.
+
+![example output](assets/cifar_10_example.png)
